@@ -46,47 +46,35 @@ for product
      		}
 	}
 
-for color:
-	{
-  		"data": {
-    		"type": "color",
-    		"attributes": {
-      			"color": "lavender"
-    			}
-  		}  
-	}
+	for color:
+		{
+	  		"data": {
+	    		"type": "color",
+	    		"attributes": {
+	      			"color": "lavender"
+	    			}
+	  		}  
+		}
 
-for category:
-	{
-  		"data": {
-    		"type": "category",
-    			"attributes": {
-      			"category": "seragam batik"
-    			}
-  		}  
-	}
+	for category:
+		{
+	  		"data": {
+	    		"type": "category",
+	    			"attributes": {
+	      			"category": "seragam batik"
+	    			}
+	  		}  
+		}
 
-for size:
-	{
-  		"data": {
-    		"type": "size",
-    		"attributes": {
-      			"color": "LL"
-    		}
-  		}  
-	}
-
-	{
-  		"data": {
-    		"type": "product",
-    		"attributes": {
-      		"name": "baju batik 1",
-      		"id_size":1,
-      		"id_color":1,
-      		"price":90000,
-      		"id_category":1,
-      		"gambar":"bajubatik1.jpg"
-    	}
+	for size:
+		{
+	  		"data": {
+	    		"type": "size",
+	    		"attributes": {
+	      			"color": "LL"
+	    		}
+	  		}  
+		}
   	}  
 }
 
