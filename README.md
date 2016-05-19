@@ -1,10 +1,10 @@
 # restful-api
 
-this is simple restful api using python,flask,postgresql.
+# this is simple restful api using python,flask,postgresql.
 
-doc api:
-obscure-journey-25836.herokuapp.com/api/v1/product.json (product list) [GET]
-obscure-journey-25836.herokuapp.com/api/v1/product/{id}.json (product list with id) [GET]
+# doc api:
+# obscure-journey-25836.herokuapp.com/api/v1/product.json (product list) [GET]
+# obscure-journey-25836.herokuapp.com/api/v1/product/{id}.json (product list with id) [GET]
 obscure-journey-25836.herokuapp.com/api/v1/product/getbysize/{id_size}.json (product list with id size) [GET]
 obscure-journey-25836.herokuapp.com/api/v1/product/getbycolor/{id_color}.json (product list with id color) [GET]
 obscure-journey-25836.herokuapp.com/api/v1/product/filterprice/{pricemin}-{pricemax}.json (product list with id color) [GET]
