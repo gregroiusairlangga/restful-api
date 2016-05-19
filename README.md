@@ -29,5 +29,7 @@ doc api:
 	obscure-journey-25836.herokuapp.com/api/v1/size/{id}.json (delete size product list) [DELETE]
 
 
-
+Local:
+	use host:http://127.0.0.1:5000
+	http://127.0.0.1:5000/api/v1/product.json
 
